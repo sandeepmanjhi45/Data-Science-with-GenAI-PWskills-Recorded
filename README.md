@@ -15,3 +15,23 @@ My learning journey through the **PW Skills Data Science with Generative AI** co
 | 04 | Machine Learning | Upcoming |
 
 ## Repo structure
+
+- `00_Computer_Fundamentals/`
+- `01_Python/`
+- `02_Database_SQL/`
+- `03_Statistics/`
+- `04_Machine_Learning/`
+- `resources/`
+
+Each module folder contains:
+- `notes/` - PDF notes
+- `notebooks/` - Colab (.ipynb) files
+- `assignments/` - one folder per assignment (question, solution, README)
+
+## Tools used
+Python, Google Colab, Jupyter Notebook, Pandas, NumPy, SQL
+
+## About me
+**Sandeep Manjhi** - Data Science student from Bhopal, India
+
+[LinkedIn](https://www.linkedin.com/in/sandeep-manjhi-a10135298) | [Kaggle](https://www.kaggle.com/sandeepmanjhi)

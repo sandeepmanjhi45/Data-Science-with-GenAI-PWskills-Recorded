@@ -16,8 +16,10 @@ Module 00 of the PW Skills Data Science with Generative AI course (Recorded). It
 - Loops
 - Functions
 - Debugging
-- Mini-project
 - The impact of AI
+
+## Notes
+- [Types of Apps (short notes)](notes/01_Types_of_Apps_Short.md)
 
 ## Key learnings
 - This module gave me a high-level overview of the topics above.

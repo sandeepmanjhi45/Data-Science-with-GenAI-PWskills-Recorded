@@ -2,18 +2,17 @@
 
 Part of the Python milestone in the PW Skills Data Science with Generative AI course (Recorded). On the PW Skills platform, this is Module 02.
 
-## Topics covered
-1. Introduction to Python
-2. Predefined Keywords
-3. Mutability and Immutability
-4. Operators
-5. Type Casting
-6. Conditionals
-7. Loops
-8. Python Basics (Assignment)
+## Topics and notebooks
+Click a topic to open my Colab notebook for it.
 
-## Notebooks
-Links will be added once all the notebooks are uploaded.
+1. [Introduction to Python](notebooks/01_Introduction_to_Python.ipynb)
+2. [Predefined Keywords](notebooks/02_Predefined_Keywords.ipynb)
+3. [Mutability and Immutability](notebooks/03_Mutability_and_Immutability.ipynb)
+4. [Operators](notebooks/04_Operators.ipynb)
+5. [Type Casting](notebooks/05_Type_Casting.ipynb)
+6. [Conditionals](notebooks/06_Conditionals.ipynb)
+7. [Loops](notebooks/07_Loops.ipynb)
+8. Python Basics (Assignment): link will be added once the assignment is uploaded
 
 ## Assignment
 Link will be added once the assignment is uploaded.

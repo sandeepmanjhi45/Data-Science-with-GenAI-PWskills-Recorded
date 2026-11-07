@@ -6,8 +6,8 @@ Milestone 01 of the PW Skills Data Science with Generative AI course (Recorded).
 
 | # | Module | Status |
 |---|--------|--------|
-| 01 | [Python Basics](01_Python_Basics/) | In progress |
-| 02 | Data Structures | Upcoming |
+| 01 | [Python Basics](01_Python_Basics/) | Completed |
+| 02 | [Data Structures](02_Data_Structures/) | In progress |
 | 03 | Functions | Upcoming |
 | 04 | OOPs | Upcoming |
 | 05 | Files, Exception Handling and Memory Management | Upcoming |
